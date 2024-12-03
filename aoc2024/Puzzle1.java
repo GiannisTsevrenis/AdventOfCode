@@ -1,4 +1,3 @@
-package aoc2024.Day1;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
