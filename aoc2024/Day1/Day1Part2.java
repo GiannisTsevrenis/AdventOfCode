@@ -4,7 +4,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.HashMap;
 
-public class Puzzle2 {
+public class Day1Part2 {
     public static void main(String[] args) {
         String filePath = "./aoc2024/Day1/input1.txt";
         HashMap<Integer,Integer> map = new HashMap<>();
