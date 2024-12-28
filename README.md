@@ -6,7 +6,7 @@ If you're having a hard time understanding my thought process or approach to a s
 
 ## Language
 
-All solutions are written in **Java** <img src="https://images.javatpoint.com/core/images/java-logo3.png" alt="Java Logo" width="20" height="20" />. You can find both part 1 and part 2 solutions for each day in separate java files.
+All solutions are written in **Java**. You can find both part 1 and part 2 solutions for each day in separate java files.
 
 ## Disclaimer
 
