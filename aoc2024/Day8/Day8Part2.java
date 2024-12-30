@@ -9,7 +9,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
 
-// solution 305
+// solution 1150
 public class Day8Part2 {
     private static int bounds;
 
