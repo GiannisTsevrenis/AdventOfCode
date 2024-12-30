@@ -13,7 +13,5 @@ We have to further modify the function that fills the empty spaces. There are a 
 
 2. For each file ID, count how many times it appears in the list and its first index (starting from the end).<br>
    For example in $[0..111....22222]$ we will get:
-   $$
-   fileID=2, fileIDCount=5, firstIndex=10
-   $$
+   $fileID=2, fileIDCount=5, firstIndex=10$
 3. Then iterate over the Arraylist until the first index ( because if first index is reached it means there is not enough space before to fit all the group) and count the free memory. If we find enough room to fit all the appearances of current ID file we make the swap and break loop. Else we go to the next ID and start over again.
